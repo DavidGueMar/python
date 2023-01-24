@@ -1,0 +1,15 @@
+Date: 6/8/2022
+Time: 20:19
+Phone Number: +34646502310
+Message: prueba
+--------------------
+Date: 6/8/2022
+Time: 20:22
+Phone Number: +34646502310
+Message: otra prueba
+--------------------
+Date: 6/8/2022
+Time: 20:28
+Group ID: FFiVt930foxD3vy09IkcT6
+Message: prueba mensaje automático
+--------------------
